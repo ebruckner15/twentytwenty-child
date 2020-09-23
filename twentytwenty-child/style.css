@@ -11,6 +11,8 @@ Author URI: https://wordpress.org/
 Theme URI: https://wordpress.org/themes/twentytwenty/
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+GitHub Theme URI: ebruckner15/githubupdatertest2.0
+GitHub Theme URI: https://github.com/ebruckner15/githubupdatertest2.0
 
 All files, unless otherwise stated, are released under the GNU General Public
 License version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
@@ -118,7 +120,7 @@ html {
 }
 
 body {
-	background: #f5efe0;
+	background: orange;
 	box-sizing: border-box;
 	color: #000;
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
